@@ -8,11 +8,11 @@
 
 - 🖥️ I’m currently working on **Full Stack Development**
 
-- Portfolio - [https://tanayportfolio5.netlify.app/](https://tanayportfolio5.netlify.app/)
+- Portfolio - [https://tanayportfolionext.netlify.app/](https://tanayportfolionext.netlify.app/)
 
 - Email - **tanaychakraborty.55@gmail.com**
 
-- Resume - [https://drive.google.com/file/d/16g5TT62xUkjaEgXqja2_wgJTaUQnvwRJ/view?usp=sharing](https://drive.google.com/file/d/16g5TT62xUkjaEgXqja2_wgJTaUQnvwRJ/view?usp=sharing)
+- Resume - [https://drive.google.com/file/d/1t5HKSJScWVjRcM2PKkT09Kqoqyi7owrj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
